@@ -1,0 +1,14 @@
+<ul class="links">
+  {% for nav in site.data.nav_main %}
+    {% if nav.title == page.category and nav.sub != null %}
+      {% for sub in nav.sub %}
+        <li>
+          <a href="{{ sub.link }}"
+             {% if page.url == sub.link %}class="active"{% endif %}>
+            {{ sub.title }}
+          </a>
+        </li>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ul>
