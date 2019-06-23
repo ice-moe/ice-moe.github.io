@@ -1,0 +1,6 @@
+<div class="bread-crumbs">
+  <a href="/">Home</a> >
+  {% assign category_page = site.data.nav_main | where: "title", page.category | first %}
+  <a href="{{ category_page.link }}">{{ category_page.title }}</a> >
+  <a href="{{ page.url }}">{{ page.title }}</a>
+</div>
