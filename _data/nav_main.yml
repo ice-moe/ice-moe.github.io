@@ -1,0 +1,13 @@
+- title: Home
+  link: /
+- title: About
+  link: /about/project-event.html
+  sub:
+    - title: Project Event
+      link: /about/project-event.html
+    - title: 2018 Chinese Taipei HRDWG-EDNET Project
+      link: /about/2018-hrdwg-ednet.html
+    - title: 2017 Chinese Taipei HRDWG-EDNET Project
+      link: /about/2017-hrdwg-ednet.html
+    - title: 2015 TVE Handbook
+      link: /assets/document/Handbook.pdf
