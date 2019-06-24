@@ -11,3 +11,19 @@
       link: /about/2017-hrdwg-ednet.html
     - title: 2015 TVE Handbook
       link: /assets/document/Handbook.pdf
+- title: Industry-Acaemia Cooperation
+  link: /cooperation/regional-programs.html
+  sub:
+    - title: Regional Industry-Academia Collaboration Programs
+      link: /cooperation/regional-programs.html
+    - title: Industry-Academia Collaboration Programs
+      link: /cooperation/industry-academia-collaboration.html
+      sub:
+        - title: Industrial-Academic Cooperation Training Plan
+          link: /cooperation/industry-academia-training-plan.html
+        - title: Industry School Program
+          link: /cooperation/industry-school-program.html
+        - title: Industrial-Academic Cooperation Project
+          link: /cooperation/industry-academia-project.html
+    - title: Best Practices
+      link: /cooperation/best-practices.html
