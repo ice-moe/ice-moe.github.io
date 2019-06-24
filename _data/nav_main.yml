@@ -27,3 +27,14 @@
           link: /cooperation/industry-academia-project.html
     - title: Best Practices
       link: /cooperation/best-practices.html
+- title: Activity Agenda
+  link: /agenda/taipei-forum.html
+  sub:
+    - title: Taipei Forum
+      link: /agenda/taipei-forum.html
+    - title: Venue
+      link: /agenda/venue.html
+    - title: Tour Agenda
+      link: /agenda/tour.html
+- title: Registration
+  link: /registration/register.html
